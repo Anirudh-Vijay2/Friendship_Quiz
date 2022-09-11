@@ -1,0 +1,79 @@
+.first{
+    margin: auto;
+    text-align: center;
+}
+
+.onejz{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.firtsxm{
+    position: relative;
+    top: 250px;
+}
+
+.submitbtn{
+    margin-top: 100px;
+}
+
+.place-option{
+    margin-top: 15px;
+}
+
+.car-option{
+    margin-top: 15px;
+}
+
+.time-option{
+    margin-top: 15px;
+}
+
+.mobile-option{
+    margin-top: 15px;
+}
+
+.youtuber-option{
+    margin-top: 15px;
+}
+
+.media-option{
+    margin-top: 15px;
+}
+
+.movie-option{
+    margin-top: 15px;
+}
+
+.drink-option{
+    margin-top: 15px;
+}
+
+.age-option{
+    margin-top: 15px;
+}
+
+.actor-option{
+    margin-top: 15px;
+}
+
+#submit{
+  display: block;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#checker{
+    margin-top: 15px;
+}
+
+@media (min-width: 225px) and (max-width: 524px){
+   label{
+    display: block;
+   }
+}
